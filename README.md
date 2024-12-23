@@ -51,19 +51,13 @@ The output of the model is a caption to the image generated text
 ---
 ### Results
 <p align = 'center'>
-  <img src = './Support/1.png' align = 'center'>
+  <img src = '![Screenshot 2024-12-23 113429](https://github.com/user-attachments/assets/1849a0b5-698a-40fc-9c67-8248fb9877cf)
+' align = 'center'>
 </p>
 
 <p align = 'center'>
-  <img src = './Support/2.png' align = 'center'>
-</p>
-
-<p align = 'center'>
-  <img src = './Support/3.png' align = 'center'>
-</p>
-
-<p align = 'center'>
-  <img src = './Support/4.png' align = 'center'>
+  <img src = '![Screenshot 2024-12-23 115011](https://github.com/user-attachments/assets/1abd8e10-7555-4c05-82a1-309c39e7c5ba)
+' align = 'center'>
 </p>
 
 ---
