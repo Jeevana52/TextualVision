@@ -1,9 +1,8 @@
 # TextualVision
 TextualVision is a cutting-edge image captioning system that converts visual content into descriptive text using deep learning. By combining image processing with language models, it generates accurate captions for a wide range of images. Its scalable design ensures adaptability for real-world applications.
 
-<p align = 'center'>
-  <img src = '![3637013_c675de7705](https://github.com/user-attachments/assets/c0519a3c-afc6-46f0-94bc-97f8217dfb0a)' align = 'center'>
-</p>
+![](images/10815824_2997e03d76.jpg?raw=true)
+![](images/42637986_135a9786a6.jpg?raw=true)
 
 The above example is enough to understand image captioning.  
 
