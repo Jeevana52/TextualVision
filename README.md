@@ -38,12 +38,8 @@ The dataset used is flickr8k. You can request the data [here](https://www.kaggle
 
 ---
 The task of image captioning can be divided into two modules logically – one is an `image-based model` – which extracts the features and nuances out of our image, and the other is a `language-based model` – which translates the features and objects given by our image-based model to a natural sentence.    
-For our image-based model (viz encoder) – we usually rely on a `Convolutional Neural Network` model. And for our language-based model (viz decoder) – we rely on a `Recurrent Neural Network`. The image below summarizes the approach given above.
-
-<p align = 'center'>
-  <img src = './Support/arch.png' width = '50%' height = '50%'>
+For our image-based model (viz encoder) – we usually rely on a `Convolutional Neural Network` model. And for our language-based model (viz decoder) – we rely on a `Recurrent Neural Network`. 
 </p>
-
 
 ---
 
@@ -52,14 +48,7 @@ The output of the model is a caption to the image generated text
 
 ---
 ### Results
-<p align = 'center'>
-  <img src = '![Screenshot 2024-12-23 113429](https://github.com/user-attachments/assets/1849a0b5-698a-40fc-9c67-8248fb9877cf)
-' align = 'center'>
-</p>
-
-<p align = 'center'>
-  <img src = '![Screenshot 2024-12-23 115011](https://github.com/user-attachments/assets/1abd8e10-7555-4c05-82a1-309c39e7c5ba)
-' align = 'center'>
-</p>
+![image](https://github.com/Jeevana52/TextualVision/blob/main/Images/SAMPLE1.png) 
+ ![image](https://github.com/Jeevana52/TextualVision/blob/main/Images/SAMPLE2.png) 
 
 ---
